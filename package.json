@@ -1,6 +1,6 @@
 {
   "name": "@robertoachar/gpr-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A playground for GitHub Package Registry with npm.",
   "author": "Roberto Achar <robertoachar@gmail.com>",
   "homepage": "https://github.com/robertoachar/gpr-package#readme",
