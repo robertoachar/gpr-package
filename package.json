@@ -1,5 +1,5 @@
 {
-  "name": "gpr-package",
+  "name": "@robertoachar/gpr-package",
   "version": "1.0.0",
   "description": "A playground for GitHub Package Registry with npm.",
   "author": "Roberto Achar <robertoachar@gmail.com>",
@@ -21,6 +21,9 @@
   },
   "bugs": {
     "url": "https://github.com/robertoachar/gpr-package/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "esm": "3.2.25"
